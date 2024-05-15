@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://emmanuel-q.github.io/social-links-profile/)
+- Live Site URL: (https://emmanuel-q.github.io/social-links-profile/)
 
 ### Built with
 
